@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572326171353",
+    "project_id": "crad-12618",
+    "storage_bucket": "crad-12618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572326171353:android:7419d622d298a988b7a4c8",
+        "android_client_info": {
+          "package_name": "com.example.crad1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiFR9BHyezCl_nI2w1Y9v_8mHKdNTpmk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
